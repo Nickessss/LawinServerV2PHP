@@ -11,5 +11,10 @@
         "EnableGlobalChat": false
     },
     "matchmakerIP": "127.0.0.1:80",
-    "gameServerIP": "127.0.0.1:7777"
+    "gameServerIP": "127.0.0.1:7777",
+    "db_tables": {
+        "users": "LawinServer__users",
+        "profiles": "LawinServer__profiles",
+        "friends": "LawinServer__friends"
+    }
 }
